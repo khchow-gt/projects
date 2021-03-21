@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machine Learning
-nav_order: 2
+nav_order: 1
 ---
 
 # Machine Learning
